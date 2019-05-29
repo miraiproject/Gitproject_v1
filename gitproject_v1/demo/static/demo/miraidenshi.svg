@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="75px" viewBox="0 0 68 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-mark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PC-topall" transform="translate(-83.000000, -23.000000)" fill="#FFFFFF">
+            <g id="Side" transform="translate(-4.000000, 0.000000)">
+                <g id="side-logo" transform="translate(47.000000, 23.000000)">
+                    <g id="logo-mark" transform="translate(40.000000, 0.000000)">
+                        <path d="M33.6960058,63.2727273 C36.8079959,63.2727273 39.3303748,65.7912569 39.3303748,68.898498 C39.3303748,72.0057391 36.8079959,74.5242688 33.6960058,74.5242688 C30.5840158,74.5242688 28.0616369,72.0057391 28.0616369,68.898498 C28.0616369,65.7912569 30.5840158,63.2727273 33.6960058,63.2727273" id="Fill-1"></path>
+                        <polygon id="Fill-3" points="26.7115925 0 0 46.2578656 9.40898283 46.2578656 26.7253685 16.2996047 37.2777563 34.5111462 46.6867391 34.5111462"></polygon>
+                        <polygon id="Fill-5" points="55.7237709 50.1367589 21.0909996 50.1367589 31.7949229 31.6363636 27.0697676 23.5347036 6.95686139 58.2934387 60.4351503 58.2934387"></polygon>
+                        <polygon id="Fill-7" points="67.3782357 46.3403953 40.7630749 0.0137549407 35.9690398 8.25296443 41.3141135 17.3174704 41.3003375 17.3312253 53.1476658 38.1562055 32.1944259 38.1562055 27.6896859 46.3403953"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
